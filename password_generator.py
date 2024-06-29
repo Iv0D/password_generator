@@ -31,5 +31,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Contraseñas posibles (aproximadas)/possible amount of passwords(roughly): 
